@@ -1,7 +1,7 @@
 # -- 项目信息 -----------------------------------------------------
 
-project = "KiraKira 用户手册"
-copyright = "2024, Linko (Website: KiraKira☆Douga)"
+project = "KIRAKIRA 用户手册"
+copyright = "2024, Linko (Website: KIRAKIRA☆DOUGA)"
 author = "Linko"
 release = "0.0.1"
 

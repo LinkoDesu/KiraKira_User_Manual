@@ -4,8 +4,8 @@
 
 ### 第一步 · 打开网页
 
-在浏览器中输入 `https://kirakira.moe` 打开 KiraKira☆Douga 的主页（以下简称 KiraKira）。\
-或者您可以点击 [KiraKira☆Douga](https://kirakira.moe/) 以直接打开。
+在浏览器中输入 `https://kirakira.moe` 打开 KIRAKIRA☆DOUGA 的主页（以下简称 KiraKira）。\
+或者您可以点击 [KIRAKIRA☆DOUGA](https://kirakira.moe/) 以直接打开。
 打开主页后，请你登录自己的账号。
 
 ![Step 01](Picture/step01.png)

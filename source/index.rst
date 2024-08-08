@@ -1,4 +1,4 @@
-KiraKira☆Douga 用户手册
+KIRAKIRA☆DOUGA 用户手册
 ==================================
 
 .. toctree::

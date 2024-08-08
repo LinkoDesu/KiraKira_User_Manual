@@ -1,6 +1,6 @@
 # 关于本站
 
-本站是由 **Linko** 创建并维护的 KiraKira☆Douga 第三方用户使用手册。
+本站是由 **Linko** 创建并维护的 KIRAKIRA☆DOUGA 第三方用户使用手册。
 
 ## 联系方式
 
@@ -13,6 +13,6 @@
 
 ## 特别鸣谢
 
-- [KiraKira☆Douga](https://kirakira.moe/)
+- [KIRAKIRA☆DOUGA](https://kirakira.moe/)
 - [Github](https://github.com/)
 - [Read the Docs](https://readthedocs.org/)
