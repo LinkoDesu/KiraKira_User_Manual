@@ -3,7 +3,7 @@
 project = "KIRAKIRA 用户手册"
 copyright = "2024, Linko (Website: KIRAKIRA☆DOUGA)"
 author = "Linko"
-release = "0.0.1"
+release = "0.0.1A"
 
 # -- 基础配置 ---------------------------------------------------
 
